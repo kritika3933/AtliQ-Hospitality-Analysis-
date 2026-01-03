@@ -1,4 +1,6 @@
 🏨 AtliQ Hospitality Analysis – Power BI Project
+
+
 📌 Project Overview
 
 The AtliQ Hospitality Analysis project is a comprehensive business intelligence solution built using Power BI to analyze hotel performance across multiple cities, properties, room categories, and booking platforms.
@@ -9,86 +11,113 @@ The project is designed to replace static Excel-based reporting with interactive
 
 🛠️ Tool Stack
 
-Power BI Desktop – Data modeling, visualization & dashboarding
+● Power BI Desktop – Data modeling, visualization & dashboarding
 
-DAX – Calculated measures and KPIs
+● DAX – Calculated measures and KPIs
 
-SQL – Data extraction and transformation
+● SQL – Data extraction and transformation
 
-Excel – Initial data validation and exploration  
+● Excel – Initial data validation and exploration  
 
 📊 Key Metrics Tracked
 
-Total Revenue
+● Total Revenue
 
-Total Bookings
+● Total Bookings
 
-Occupancy %
+● Occupancy %
 
-ADR (Average Daily Rate)
+● ADR (Average Daily Rate)
 
-RevPAR (Revenue per Available Room)
+● RevPAR (Revenue per Available Room)
 
-DSRN (Daily Sellable Room Nights)
+● DSRN (Daily Sellable Room Nights)
 
-DBRN (Daily Booked Room Nights)
+● DBRN (Daily Booked Room Nights)
 
-DURN (Daily Utilized Room Nights)
+● DURN (Daily Utilized Room Nights)
 
-Cancellation %
+● Cancellation %
 
 📈 Dashboard Pages & Insights
 🏠 Home Page
 
-Central navigation hub for the entire report
+● Central navigation hub for the entire report
 
-High-level introduction to booking, revenue, and performance dashboards
+● High-level introduction to booking, revenue, and performance dashboards
 
-Clean, premium hospitality-themed design for executive viewing
+● Clean, premium hospitality-themed design for executive viewing
+
+
+
+
 
 📘 Booking Overview
 
-Analysis of bookings by platform, city, room type, and property
+● Analysis of bookings by platform, city, room type, and property
 
-Key indicators for checkout rate, cancellation %, and no-show %
+● Key indicators for checkout rate, cancellation %, and no-show %
 
-Helps identify booking behavior and platform dependency
+● Helps identify booking behavior and platform dependency
+
+
+
+
+
 
 💰 Revenue Overview
 
-Revenue distribution by city, category (Luxury vs Business), and property
+● Revenue distribution by city, category (Luxury vs Business), and property
 
-Comparison between generated revenue and realized revenue
+● Comparison between generated revenue and realized revenue
 
-Booking platform-wise revenue contribution
+● Booking platform-wise revenue contribution
+
+
+
+
+
+
 
 📉 Performance Overview
 
-Trend analysis of RevPAR, ADR, and Occupancy % over time
+● Trend analysis of RevPAR, ADR, and Occupancy % over time
 
-Week-wise performance monitoring
+● Week-wise performance monitoring
 
-Property-level performance comparison to identify underperforming hotels
+● Property-level performance comparison to identify underperforming hotels
+
+
+
+
+
+
 
 🎯 Business Value
 
-Enables finance teams to track revenue realization and profitability
+● Enables finance teams to track revenue realization and profitability
 
-Helps sales & marketing teams identify high-performing cities and platforms
+● Helps sales & marketing teams identify high-performing cities and platforms
 
-Assists operations teams in monitoring occupancy and capacity utilization
+● Assists operations teams in monitoring occupancy and capacity utilization
 
-Provides executives with a clear snapshot of overall business health
+● Provides executives with a clear snapshot of overall business health
+
+
+
+
+
+
 
 📌 Key Takeaways
 
-Identified revenue leakage due to cancellations and no-shows
+● Identified revenue leakage due to cancellations and no-shows
 
-Highlighted top-performing cities and luxury properties
+● Highlighted top-performing cities and luxury properties
 
-Revealed platform-wise booking concentration
+● Revealed platform-wise booking concentration
 
-Enabled data-driven decisions with interactive filters and drill-downs
+● Enabled data-driven decisions with interactive filters and drill-downs
 
 📂 Project Highlights
 
