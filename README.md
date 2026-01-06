@@ -43,9 +43,7 @@ The project is designed to replace static Excel-based reporting with interactive
 
 ## 🔗 Dashboard Link
 
-👉 🔗 🔗 [View Live Dashboard]https://app.powerbi.com/view?r=eyJrIjoiYWEwZTNkYmUtZmZkZC00MzVjLWFjM2YtOTFmYjNjNDBhNDNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
-
+🔗 [View Live Dashboard](https://https://app.powerbi.com/view?r=eyJrIjoiYWEwZTNkYmUtZmZkZC00MzVjLWFjM2YtOTFmYjNjNDBhNDNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
